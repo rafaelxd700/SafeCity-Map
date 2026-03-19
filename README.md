@@ -9,7 +9,7 @@ O objetivo é ajudar a população a evitar riscos e auxiliar órgãos públicos
 - Rafael Del Antonio (Product Owner e Desenvolvedor)
 - Carlos Eduardo (Scrum Master e Desenvolvedor)
 
-## ⚙️ Metodologia
+##  Metodologia
 O projeto foi organizado utilizando Scrum, com divisão de tarefas em Sprints e uso de quadro Kanban no Trello.
 
 ##  Ferramentas utilizadas

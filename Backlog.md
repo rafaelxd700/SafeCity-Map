@@ -1,4 +1,4 @@
-# 📋 Backlog do Sistema - SafeCity Map
+#  Backlog do Sistema - SafeCity Map
 
 ## 🔴 Alta Prioridade
 1. Criar estrutura inicial do projeto

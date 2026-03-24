@@ -8,3 +8,4 @@
 5. Definir estrutura de pastas do projeto
 6. Revisar backlog e prioridades
 7. Definir categorias de risco
+8. Definir padrão de cores para tipos de risco

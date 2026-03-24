@@ -4,3 +4,4 @@
 1. Definir objetivo geral do sistema
 2. Definir funcionalidades principais
 3. Criar quadro Kanban no Trello
+4. Criar estrutura inicial do GitHub

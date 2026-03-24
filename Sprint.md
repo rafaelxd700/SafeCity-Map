@@ -14,3 +14,5 @@ Este documento apresenta a organização oficial das tarefas, prazos e responsá
 | 02 | Definir funcionalidades principais | **PO (Rafael)** | Dia 01 | ✅ |
 | 03 | Criar quadro Kanban no Trello | **SM** | Dia 01 | ✅ |
 | 04 | Criar estrutura inicial do GitHub | **SM** | Dia 02 | ✅ |
+| 05 | Definir estrutura de pastas do projeto | **Dev 1** | Dia 02 | ⏳ |
+| 06 | Revisar backlog e prioridades | **PO** | Dia 03 | ⏳ |

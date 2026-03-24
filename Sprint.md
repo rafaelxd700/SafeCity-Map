@@ -30,3 +30,5 @@ Este documento apresenta a organização oficial das tarefas, prazos e responsá
 | 18 | Planejar cadastro de novos riscos | **Dev 1** | Dia 09 | ⏳ |
 | 19 | Planejar sistema de busca por cidade | **Dev 2** | Dia 09 | ⏳ |
 | 20 | Planejar funcionalidade de visualização no mapa | **Dev 1** | Dia 10 | ⏳ |
+| 21 | Planejar sistema de filtro por tipo de risco | **Dev 2** | Dia 10 | ⏳ |
+| 22 | Planejar visualização de detalhes de uma área | **Dev 1** | Dia 11 | ⏳ |

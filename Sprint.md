@@ -32,3 +32,5 @@ Este documento apresenta a organização oficial das tarefas, prazos e responsá
 | 20 | Planejar funcionalidade de visualização no mapa | **Dev 1** | Dia 10 | ⏳ |
 | 21 | Planejar sistema de filtro por tipo de risco | **Dev 2** | Dia 10 | ⏳ |
 | 22 | Planejar visualização de detalhes de uma área | **Dev 1** | Dia 11 | ⏳ |
+| 23 | Definir sistema de histórico de ocorrências | **PO** | Dia 11 | ⏳ |
+| 24 | Planejar sistema de comentários ou denúncias | **Dev 1** | Dia 12 | ⏳ |

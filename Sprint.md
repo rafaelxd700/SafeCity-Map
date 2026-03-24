@@ -36,3 +36,5 @@ Este documento apresenta a organização oficial das tarefas, prazos e responsá
 | 24 | Planejar sistema de comentários ou denúncias | **Dev 1** | Dia 12 | ⏳ |
 | 25 | Planejar sistema de notificações | **Dev 1** | Dia 12 | ⏳ |
 | 26 | Planejar dashboard com estatísticas | **Dev 2** | Dia 13 | ⏳ |
+| 27 | Planejar ranking de áreas mais perigosas | **PO** | Dia 13 | ⏳ |
+| 28 | Planejar sistema de atualização de dados | **SM** | Dia 14 | ⏳ |

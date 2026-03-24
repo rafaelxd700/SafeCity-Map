@@ -12,3 +12,4 @@
 9. Definir modelo de cadastro de cidades
 10. Definir modelo de cadastro de áreas de risco
 11. Definir estrutura de banco de dados
+12. Planejar tela inicial do sistema

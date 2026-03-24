@@ -22,3 +22,5 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 * **Descrição:** Conduzi a reunião de refinamento com o PO para garantir que as 30 tarefas estivessem claras, numeradas e ordenadas por importância para o MVP.
 * **Objetivo:** Garantir que o time foque no que é mais crítico primeiro.
 
+### 05. Definir modelo de cadastro de áreas de risco
+* **Descrição:** Estruturei os campos necessários para identificar uma zona perigosa: coordenadas geográficas, raio de influência, nível de criticidade e descrição da ameaça.

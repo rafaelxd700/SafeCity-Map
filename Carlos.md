@@ -33,3 +33,7 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 
 ### 08. Planejar tela de login de administrador
 * **Descrição:** Defini os requisitos para a área restrita, incluindo campos de autenticação e tokens de sessão para moderadores do sistema.
+
+### 09. Planejar tela de cadastro de risco
+* **Descrição:** Planejei a interface de entrada de dados, prevendo um seletor de mapa para marcar a localização exata e upload de evidências (fotos).
+

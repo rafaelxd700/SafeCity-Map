@@ -9,3 +9,4 @@
 6. Revisar backlog e prioridades
 7. Definir categorias de risco
 8. Definir padrão de cores para tipos de risco
+9. Definir modelo de cadastro de cidades

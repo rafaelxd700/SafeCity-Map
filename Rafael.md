@@ -1,14 +1,3 @@
-#  Rafael Del Antonio
+# 👨‍💻 Diário de Atividades - Rafael Del Antonio (PO & Dev)
 
-##  Função
-Product Owner e Desenvolvedor
-
-##  Atividades realizadas
-- Criação do backlog do sistema
-- Definição das prioridades
-- Criação do README
-- Planejamento geral do sistema
-- Desenvolvimento da estrutura inicial
-
-##  Observações
-Responsável pela organização das ideias e definição das funcionalidades principais.
+Este documento descreve as atividades realizadas durante o planejamento do sistema SafeCity Map, atuando como Product Owner e Desenvolvedor.

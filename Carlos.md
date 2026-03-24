@@ -43,3 +43,5 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 ### 11. Planejar sistema de filtro por tipo de risco
 * **Descrição:** Desenvolvi a lógica de filtros laterais que permite ao usuário isolar categorias específicas no mapa (ex: ver apenas riscos de criminalidade).
 
+### 12. Planejar visualização de detalhes de uma área
+* **Descrição:** Projetei o modal informativo que exibe o histórico completo, fotos e contatos de emergência vinculados a um ponto de risco selecionado.

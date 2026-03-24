@@ -6,3 +6,4 @@
 3. Criar quadro Kanban no Trello
 4. Criar estrutura inicial do GitHub
 5. Definir estrutura de pastas do projeto
+6. Revisar backlog e prioridades

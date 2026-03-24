@@ -30,3 +30,6 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 
 ### 07. Planejar tela inicial do sistema
 * **Descrição:** Desenhei o fluxo da Home Page, priorizando o acesso rápido à geolocalização do usuário e um resumo visual dos alertas próximos.
+
+### 08. Planejar tela de login de administrador
+* **Descrição:** Defini os requisitos para a área restrita, incluindo campos de autenticação e tokens de sessão para moderadores do sistema.

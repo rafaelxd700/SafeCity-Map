@@ -17,3 +17,8 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 ### 03. Definir estrutura de pastas do projeto
 * **Descrição:** Planejei a arquitetura de diretórios do repositório, separando pastas para documentação técnica, diagramas e futuros assets de interface.
 * **Objetivo:** Manter a padronização e facilitar a localização de arquivos pelos integrantes.
+
+### 04. Revisar backlog e prioridades
+* **Descrição:** Conduzi a reunião de refinamento com o PO para garantir que as 30 tarefas estivessem claras, numeradas e ordenadas por importância para o MVP.
+* **Objetivo:** Garantir que o time foque no que é mais crítico primeiro.
+

@@ -1,31 +1,14 @@
-#  Planejamento da Sprint
+# 🗓️ Planejamento da Sprint - Projeto RiscoZero
 
-## Duração
-1 semana
+Este documento apresenta a organização oficial das tarefas, prazos e responsáveis, conforme definido pelo Scrum Master.
 
-##  Integrantes
-- Rafael Del Antonio
-- Carlos Eduardo
+## 👥 Equipe e Funções
+* **Integrante 1 (Carlos):** Scrum Master & Desenvolvedor (Dev 1)
+* **Integrante 2 (Rafael):** Product Owner & Desenvolvedor (Dev 2)
 
-##  Tarefas da Sprint
+## ⏱️ Cronograma Geral de Tarefas (30 Itens)
 
-### Rafael (PO + Dev)
-- Criar README
-- Criar Backlog
-- Estrutura inicial do projeto
-- Tela inicial
-- Cadastro de usuário
-
-### Carlos (SM + Dev)
-- Organizar Sprint
-- Criar Kanban no Trello
-- Login
-- Mapa interativo
-- Adicionar pontos no mapa
-
-##  Datas
-- Início: 20/03
-- Entrega: 27/03
-
-##  Observações
-Scrum Master responsável por acompanhar andamento e ajudar na organização.
+| ID | Tarefa | Responsável | Entrega | Status |
+|:---|:---|:---|:---|:---|
+| 01 | Definir objetivo geral do sistema | **SM (Carlos)** | Dia 01 | ✅ |
+| 02 | Definir funcionalidades principais | **PO (Rafael)** | Dia 01 | ✅ |

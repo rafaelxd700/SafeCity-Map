@@ -49,3 +49,6 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 ### 13. Planejar sistema de comentários ou denúncias
 * **Descrição:** Planejei a seção interativa onde a comunidade pode confirmar a veracidade de um risco ou informar se a situação já foi normalizada.
 
+### 14. Planejar sistema de notificações
+* **Descrição:** Defini a estratégia de alertas geofencing, disparando notificações push para o dispositivo do usuário quando ele se aproximar de uma zona de risco ativa.
+

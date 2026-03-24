@@ -21,3 +21,4 @@
 16. Planejar tela de login de administrador
 17. Planejar tela de cadastro de risco
 18. Planejar cadastro de novos riscos
+19. Planejar sistema de busca por cidade

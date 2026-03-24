@@ -5,3 +5,4 @@
 2. Definir funcionalidades principais
 3. Criar quadro Kanban no Trello
 4. Criar estrutura inicial do GitHub
+5. Definir estrutura de pastas do projeto

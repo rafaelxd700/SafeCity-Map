@@ -52,3 +52,6 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 ### 14. Planejar sistema de notificações
 * **Descrição:** Defini a estratégia de alertas geofencing, disparando notificações push para o dispositivo do usuário quando ele se aproximar de uma zona de risco ativa.
 
+### 15. Planejar ranking de áreas mais perigosas
+* **Descrição:** Criei o algoritmo de pontuação que classifica bairros e ruas com base no número de ocorrências acumuladas e na gravidade dos relatos.
+

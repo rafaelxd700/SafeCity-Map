@@ -14,3 +14,4 @@
 11. Definir estrutura de banco de dados
 12. Planejar tela inicial do sistema
 13. Planejar tela de mapa interativo
+14. Planejar integração com APIs de mapas

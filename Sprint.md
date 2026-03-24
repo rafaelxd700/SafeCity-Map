@@ -22,3 +22,5 @@ Este documento apresenta a organização oficial das tarefas, prazos e responsá
 | 10 | Definir modelo de cadastro de áreas de risco | **Dev 1** | Dia 05 | ⏳ |
 | 11 | Definir estrutura de banco de dados | **Dev 2** | Dia 05 | ⏳ |
 | 12 | Planejar tela inicial do sistema | **Dev 1** | Dia 06 | ⏳ |
+| 13 | Planejar tela de mapa interativo | **Dev 1** | Dia 06 | ⏳ |
+| 14 | Planejar integração com APIS de mapas | **SM** | Dia 07 | ⏳ |

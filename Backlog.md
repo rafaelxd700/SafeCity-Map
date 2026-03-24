@@ -16,3 +16,6 @@
 13. Planejar tela de mapa interativo
 14. Planejar integração com APIs de mapas
 15. Definir permissões de usuário
+
+## 🟠 Média Prioridade
+16. Planejar tela de login de administrador

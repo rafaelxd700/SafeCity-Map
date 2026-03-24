@@ -38,3 +38,5 @@ Este documento apresenta a organização oficial das tarefas, prazos e responsá
 | 26 | Planejar dashboard com estatísticas | **Dev 2** | Dia 13 | ⏳ |
 | 27 | Planejar ranking de áreas mais perigosas | **PO** | Dia 13 | ⏳ |
 | 28 | Planejar sistema de atualização de dados | **SM** | Dia 14 | ⏳ |
+| 29 | Definir formato de exportação de dados | **Dev 1** | Dia 14 | ⏳ |
+| 30 | Planejar tela de listagem de riscos | **Dev 1** | Dia 15 | ⏳ |

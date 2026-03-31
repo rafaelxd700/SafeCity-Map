@@ -1,10 +1,10 @@
-# 👨‍💻 Diário de Atividades - Rafael Del Antonio (PO & Dev)
+# Diário de Atividades - Rafael Del Antonio (PO & Dev)
 
 Este documento descreve as atividades realizadas durante o planejamento do sistema SafeCity Map, atuando como Product Owner e Desenvolvedor.
 
 ---
 
-## 📋 Atividades como Product Owner
+## Atividades como Product Owner
 
 ### 01. Definir funcionalidades principais
 * **Descrição:** Organizei as principais funcionalidades do sistema como mapa interativo, cadastro de riscos e sistema de denúncias.

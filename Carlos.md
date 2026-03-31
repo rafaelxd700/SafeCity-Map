@@ -1,10 +1,10 @@
-# 👨‍💻 Diário de Atividades - Carlos (SM & Dev)
+# Diário de Atividades - Carlos (SM & Dev)
 
 Este documento descreve detalhadamente as atividades realizadas por mim durante o planejamento do sistema SafeCityMap, atuando como Scrum Master e Desenvolvedor.
 
 ---
 
-## 🏗️ Gestão e Organização (Scrum Master)
+## Gestão e Organização (Scrum Master)
 
 ### 01. Definir objetivo geral do sistema
 * **Descrição:** Estabeleci a visão macro do projeto, definindo o SafeCityMap como uma plataforma de mapeamento colaborativo para aumentar a segurança urbana e ambiental.

@@ -1,4 +1,4 @@
-# 🗓️ Planejamento da Sprint - Projeto RiscoZero
+# 🗓️ Planejamento da Sprint - Projeto SafeCityMap
 
 Este documento apresenta a organização oficial das tarefas, prazos e responsáveis, conforme definido pelo Scrum Master.
 
